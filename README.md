@@ -69,7 +69,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 Group members
 1. 20136/2022
 2. 20410/2022
-3. /2022
-4. /2022
-5. /2022
-6. /2022
+3. 20197/2022
+4. 18880/2022
+5. 20892/2022
